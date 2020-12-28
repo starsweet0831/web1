@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 微軟正黑體;
+}
+
+#card{
+    background-image: url(https://images.unsplash.com/photo-1495201050688-bee4686329be?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1049&q=80);
+    background-size: cover;
+    width: 650px;
+    margin: 100px auto 20px;
+    padding: 200px 35px 30px;
+}
+
+#content{
+    background-color: rgba(255, 235, 205, 0.472);
+    margin: 50px;
+}
+
+ul{
+    padding: 20px;
+}
+
+footer{
+
+}
